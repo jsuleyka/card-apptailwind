@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lemonada:wght@300;500;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+  @apply py-2 px-4 rounded;
+}
+
+.btn-blue {
+  @apply bg-blue-500 text-white;
+}
+
+.btn-blue:hover {
+  @apply bg-blue-700;
+}
+
+.card {
+  @apply rounded overflow-hidden shadow-lg;
+}
