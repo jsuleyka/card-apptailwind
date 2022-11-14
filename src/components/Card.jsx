@@ -2,7 +2,7 @@ import React from 'react';
 
 const Card = ({ photo }) => {
   return (
-    <div className="card hover:bg-teal-500 transition ease-in-out duration-500">
+    <div className="card hover:bg-teal-300 transition ease-in-out duration-500">
       <img src={photo} alt="Sunset" className="w-full" />
       <div className="px-6 py-4">
         <div className="font-bold text-xl mb-2">The Colddest Sunset</div>
