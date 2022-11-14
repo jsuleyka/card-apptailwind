@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/card-apptailwind/static/css/main.49f1264b.css",
+    "main.js": "/card-apptailwind/static/js/main.7cad6431.js",
+    "index.html": "/card-apptailwind/index.html",
+    "main.49f1264b.css.map": "/card-apptailwind/static/css/main.49f1264b.css.map",
+    "main.7cad6431.js.map": "/card-apptailwind/static/js/main.7cad6431.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49f1264b.css",
+    "static/js/main.7cad6431.js"
+  ]
+}
